@@ -1,6 +1,7 @@
 # Flashcard
 
 Use Eclipse and MySQL Workbench and Postman for testing API.
+database name - flashcard_db
 
 POST METHOD
 
