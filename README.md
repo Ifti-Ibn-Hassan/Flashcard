@@ -1,4 +1,7 @@
 # Flashcard
+
+Use Eclipse and MySQL Workbench and Postman for testing API.
+
 POST METHOD
 
 User can use POST method to add details in this format using endpoint url as "localhost:8080/flashcard"
